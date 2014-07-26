@@ -1,0 +1,17 @@
+{
+    "launch_path": "/index.html",
+    "installs_allowed_from": [
+        "*"
+    ],
+    "version": "0.0.1",
+    "name": "YALG",
+    "pkgName": "com.ionicframework.starter",
+    "description": "YALG",
+    "developer": {
+        "name": "Aldo Ziflaj"
+    },
+    "icons": {
+		"64": "/img/ionic.png",
+		"128": "/img/ionic.png"
+	}
+}

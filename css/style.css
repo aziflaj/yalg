@@ -1,0 +1,36 @@
+.content {
+    text-align: center;
+    padding-top: 8%;
+}
+
+.button.main-button {
+    border-radius: 10px;
+    width: 300px;
+}
+
+ul li {
+    padding: 8px;
+}
+
+.level-button {
+    height: 150px;
+    width: 150px;
+    border-radius: 8px;
+}
+
+.logo-img {
+    height: 70px;
+    width: auto;
+}
+
+.logo {
+    padding-bottom: 20px;
+}
+
+.button.button-small {
+    padding: 5px 20px;
+}
+
+.ion-checkmark {
+	color: green;
+}

@@ -1,0 +1,20 @@
+<ion-pane>
+  <ion-header-bar class="bar-positive">
+  	<a href="#/">
+	<button class="button icon-left ion-chevron-left button-clear button-white">
+	</button></a>
+	<h1 class="title">Levels</h1>
+  </ion-header-bar>
+  
+  <ion-content class="content">
+
+	<ul class="level-list">
+	  <li ng-repeat="lvl in levels" class="level-card">
+		<a href="#/level/{{lvl.id}}">
+		  <button class="button button-positive level-button">{{lvl.name}}</button><br>
+		</a>
+	  </li>
+	</ul>
+
+  </ion-content>
+</ion-pane>

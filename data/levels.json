@@ -1,0 +1,41 @@
+[
+    {
+        "id"        : 1,
+        "name"      : "Level 1",
+        "content"   : {
+            "logo_num"  : 2,
+            "logos"     : [
+                {
+                    "id"    : "sitepoint",
+                    "name"  : "Sitepoint",
+                    "img"   : "img/lvl1/sitepoint.jpg"
+                },
+                {
+                    "id"    : "fb",
+                    "name"  : "Facebook",
+                    "img"   : "img/lvl1/fb.png"
+                }
+            ]
+        }
+    },
+
+    {
+        "id"        : 2,
+        "name"      : "Level 2",
+        "content"   : {
+            "logo_num"  : 2,
+            "logos"     : [
+                {
+                    "id"    : "twitter",
+                    "name"  : "Twitter",
+                    "img"   :"img/lvl2/twitter.jpg"
+                },
+                {
+                    "id"    : "android",
+                    "name"  : "Android",
+                    "img"   : "img/lvl2/android.jpg"
+                }
+            ]
+        }
+    }
+]

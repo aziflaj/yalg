@@ -1,0 +1,23 @@
+<ion-pane>
+  <ion-header-bar class="bar-positive">
+	<a ng-href="#/level/{{lvl.id}}">
+	<button class="button icon-left ion-chevron-left button-clear button-white">
+	</button></a>
+  </ion-header-bar>
+  
+  <ion-content class="content">
+
+	<div class="logo">
+	  <img src="" alt="{{logo.img}}" id="logo-img">
+	</div>
+
+	 <div class="item item-input">
+		<input type="text" name="logoName" ng-model="logo_name">
+		<button class="button button-small button-royal" ng-click="check(logo_name)">
+			Check
+		</button>
+		
+	</div>
+
+  </ion-content>
+</ion-pane>
