@@ -28,12 +28,12 @@
                 {
                     "id"    : "twitter",
                     "name"  : "Twitter",
-                    "img"   :"img/lvl2/twitter.jpg"
+                    "img"   :"img/lvl2/twitter.png"
                 },
                 {
                     "id"    : "android",
                     "name"  : "Android",
-                    "img"   : "img/lvl2/android.jpg"
+                    "img"   : "img/lvl2/android.png"
                 }
             ]
         }
